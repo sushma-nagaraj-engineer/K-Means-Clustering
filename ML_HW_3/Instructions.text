@@ -1,0 +1,13 @@
+Note: I have placed the input images koala.jpg and penguin.jpg in the same folder as the source file. If input images are in some other location then the entire file path is to be provided in the JAVA Code.
+In order to run the JAVA code using CMD:
+
+STEP 1: javac Kmeans.java
+STEP 2: java Kmeans Koala.jpg 20 koala_20.jpg
+The first argument corresponds to input image
+The second argument corresponds to K value
+The third argument corresponds to the compressed image (output) image name.
+
+
+
+
+
